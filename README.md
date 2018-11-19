@@ -1,5 +1,5 @@
 # 알파로우 AlphaLaw
-페이스북 리걸테크 스터디 그룹 자료 저장소
+페이스북 리걸테크 스터디 그룹 공식 자료 저장소
 - 공식 페이스북 페이지
 > - 공개그룹 : https://www.facebook.com/alphalawKR
 > - 비공개그룹 : https://www.facebook.com/groups/AlphaLaw
