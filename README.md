@@ -5,6 +5,10 @@
 > - 비공개그룹 : https://www.facebook.com/groups/AlphaLaw
 
 ## 2018
+ - 2018-11-24 : [알파로우 2018 시즌3: 4 회차 (법알못X딥알못)](https://www.facebook.com/events/255748355079513)
+   - 발표자 김찬호 : 러닝 텐서플로 Chapter 3.
+   - 발표자 경윤정 : 러닝 텐서플로 Chapter 4.
+   - 발표자 이기영 : [soynlp](https://github.com/lovit/soynlp), [미등록단어 문제 해결을 위한 비지도학습 기반 한국어자연어처리 방법론 및 응용](https://tv.naver.com/v/2553003)
  - 2018-11-19 : [알파로우 2018 시즌3: 4 회차 (법알못X딥알못)](https://www.facebook.com/events/413568462512170)
    - 발표자 이재석 : [국민청원으로 자연어처리 입문(박조은님)](https://drive.google.com/drive/folders/1v2qzxz1aNozdfuJ33SZwIuzcb8MfI8FF) - 02 soynlp로 명사추출해서 워드클라우드 그리기.ipynb
    - 발표자 김성현 : [Openlaw - A Project of Alphalaw](https://www.slideshare.net/SunghyunKim4/openlaw-123367715)
